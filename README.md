@@ -2,7 +2,7 @@
 
 | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Samartino&layout=compact&theme=gotham) | ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Samartino&include=private&theme=gotham&show_icons=true&hide_border=False&line_height=20&PAT_1) 
 | ----------- | ----------- |
-| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Samartino&theme=Gotham&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leonardo-Samartino&theme=gotham) |
+| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Samartino&theme=Gotham&ring=e73737&currStreakNum=ffffff&hide_border=false) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leonardo-Samartino&theme=gotham) |
 
   <div style="display: flex; align-items: center;">
   <!--<img align="center" alt="Gi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> -->
