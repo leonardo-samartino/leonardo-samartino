@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=2AA889FF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=+🖖🏼Hello+there!+My+name+is+Leonardo)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=2AA889FF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=+🖖🏼Hello+there!+Welcome+to+my+Github!)
 
 | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Samartino&layout=compact&theme=gotham) | ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Samartino&include=private&theme=gotham&show_icons=true&hide_border=False&line_height=20&PAT_1) 
 | ----------- | ----------- |
