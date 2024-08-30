@@ -13,7 +13,8 @@
   <img align="center" alt="Gi-Typescript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">  
   <img align="center" alt="Gi-TailWind" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Gi-ReactJs" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Gi-ReactJs" height="45" width="55" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">   
+  <img align="center" alt="Gi-React Native" height="45" width="55" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+  <img align="center" alt="Gi-Expo" height="45" width="48" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png">   
   <img align="center" alt="Gi-Figma" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Gi-Figma" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
   <img align="center" alt="Gi-Canva" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> 
